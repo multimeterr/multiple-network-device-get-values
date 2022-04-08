@@ -1,0 +1,1 @@
+show version | i Software image version, show inventory
